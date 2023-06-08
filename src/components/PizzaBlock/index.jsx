@@ -3,11 +3,12 @@ import React from "react";
 
 
 
-function PizzaBlock ({title, price, imageUrl, sizes, types}) {
-    /*const [pizzaCount, setPizzaCount] = React.useState(0)
 
-    const onClickAdd = () => {
-        setPizzaCount(pizzaCount + 1)*/
+function PizzaBlock ({title, price, imageUrl, sizes, types}) {
+      /*const [pizzaCount, setPizzaCount] = React.useState(0)
+
+      const onClickAdd = () => {
+        setPizzaCount(pizzaCount + 1);*/
       const [activeType, setActiveType] = React.useState(0);
       const [activeSize, setActiveSize] = React.useState(0);
       const typeNames = ["Fina", "Tradicional"];
@@ -66,5 +67,6 @@ function PizzaBlock ({title, price, imageUrl, sizes, types}) {
       </div>
     )
 }
+
 
 export default PizzaBlock;

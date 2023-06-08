@@ -5,8 +5,8 @@
     "title": "Pepperoni con pimientas",
     "types": [0, 1],
     "sizes": [26, 30, 40],
-    "price": 803,
-    "category": 0,
+    "price": "12€",
+    "category": 1,
     "rating": 4
   },
   {
@@ -15,8 +15,8 @@
     "title": "Cuatro queso",
     "types": [0],
     "sizes": [26, 40],
-    "price": 245,
-    "category": 0,
+    "price": "11€",
+    "category": 2,
     "rating": 6
   },
   {
@@ -25,7 +25,7 @@
     "title": "BBQ",
     "types": [0],
     "sizes": [26, 40],
-    "price": 295,
+    "price": "14€",
     "category": 1,
     "rating": 4
   },
@@ -35,7 +35,7 @@
     "title": "Chiken",
     "types": [1],
     "sizes": [26, 30, 40],
-    "price": 275,
+    "price": "12€",
     "category": 2,
     "rating": 2
   },
@@ -45,7 +45,7 @@
     "title": "Cheesburger",
     "types": [0, 1],
     "sizes": [26, 30, 40],
-    "price": 415,
+    "price": "13€",
     "category": 3,
     "rating": 8
   },
@@ -55,7 +55,7 @@
     "title": "Crazy pepperoni",
     "types": [0],
     "sizes": [30, 40],
-    "price": 580,
+    "price": "12€",
     "category": 2,
     "rating": 2
   },
@@ -65,7 +65,7 @@
     "title": "Pepperoni",
     "types": [0, 1],
     "sizes": [26, 30, 40],
-    "price": 675,
+    "price": "11€",
     "category": 1,
     "rating": 9
   },
@@ -75,7 +75,7 @@
     "title": "Margharita",
     "types": [0, 1],
     "sizes": [26, 30, 40],
-    "price": 450,
+    "price": "10€",
     "category": 4,
     "rating": 10
   },
@@ -85,7 +85,7 @@
     "title": "Cuatro seasones",
     "types": [0, 1],
     "sizes": [26, 30, 40],
-    "price": 395,
+    "price": "15€",
     "category": 5,
     "rating": 10
   },
@@ -95,7 +95,7 @@
     "title": "Verduras y setas 🌱",
     "types": [0, 1],
     "sizes": [26, 30, 40],
-    "price": 285,
+    "price": "10€",
     "category": 5,
     "rating": 7
   }

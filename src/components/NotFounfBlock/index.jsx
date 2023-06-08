@@ -11,7 +11,7 @@ const NotFoundBlock = () => {
             Nada encontrado 
           </h1>
           <p className={styles.description}>
-            Desafortunadamente, esta página web no está disponible en nuestra tienda en linea
+            Desafortunadamente, esta página web no está disponible
 
           </p>
         </div>
