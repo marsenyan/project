@@ -25,14 +25,14 @@ function Sort({value, onChangeSort}) {
   }
 
   React.useEffect(() => {
-    const handlrClickOutside = (event) => {
+    const handleClickOutside = (event) => {
       if(!event.path.includes(sortRef.current)){
         setOpen(false);
       }
     };
-    document.body.addEventListener("click", handlrClickOutside);
+    document.body.addEventListener("click", handleClickOutside);
     return () =>  {
-      document.body.removeEventListener("click", handlrClickOutside);
+      document.body.removeEventListener("click", handleClickOutside);
     }
 
   }, []);
